@@ -89,7 +89,7 @@
         "object-literal-shorthand": true,
         "object-literal-sort-keys": false,
         "one-line": [
-			true,
+            true,
             "check-catch",
             "check-else",
             "check-finally",
@@ -104,7 +104,7 @@
         "promise-function-async": true,
         "promise-must-complete": true,
         "quotemark": [
-			true,
+            true,
             "double",
             "avoid-escape",
             "jsx-double"
@@ -112,7 +112,7 @@
         "radix": true,
         "restrict-plus-operands": true,
         "semicolon": [
-			true,
+            true,
             "always"
         ],
         "strict-boolean-expressions": true,
@@ -126,7 +126,7 @@
         "use-named-parameter": true,
         "valid-typeof": true,
         "variable-name": [
-			true,
+            true,
             "ban-keywords",
             "check-format",
             "allow-pascal-case"
